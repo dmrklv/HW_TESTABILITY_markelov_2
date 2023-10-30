@@ -5,6 +5,5 @@ public class Main {
         int weight = 69;
         float Bmi = service.calculate(height, weight);
         System.out.println(Bmi);
-
     }
 }
